@@ -1,4 +1,4 @@
-# {{ name }}
+# {{ glxy_vue_fro }}
 
 > {{ description }}
 
@@ -6,6 +6,9 @@
 
 ``` bash
 # install dependencies
+
+$ npm update 
+
 $ npm install # Or yarn install
 
 # serve with hot reload at localhost:3000
