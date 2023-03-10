@@ -1,25 +1,20 @@
-# {{ glxy_vue_fro }}
+# glxy_vue_front
 
-> {{ description }}
-
-## Build Setup
+# 谷粒学院前台
 
 ``` bash
 # install dependencies
-
 $ npm update 
 
-$ npm install # Or yarn install
+$ npm install 
 
+#幻灯片插件
+$ npm install vue-awesome-swiper
+
+$ npm install axios@0.19.2npm
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
