@@ -9,9 +9,8 @@ $ npm update
 $ npm install 
 
 #幻灯片插件
-$ npm install vue-awesome-swiper
-
-$ npm install axios@0.19.2npm
+# $ npm install vue-awesome-swiper
+# $ npm install axios@0.19.2npm
 # serve with hot reload at localhost:3000
 $ npm run dev
 
